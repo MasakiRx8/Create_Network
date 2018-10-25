@@ -6,8 +6,8 @@ Compiler : Intel/2018<br>
 Operating environment :  Super computer of Kyushu University in Japan
 # Usage
 `$ module load intel/2018`<br>
-`$ icpc SuperComputer_version.cpp -o SuperComputer_version`<br>
-`$ ./SuperComputer_version`<br>
+`$ icpc SuperComputer_Version.cpp -o SuperComputer_Version`<br>
+`$ ./SuperComputer_Version`<br>
 # Licence
 This software is released under the MIT License, see LICENSE.
 # Authors
