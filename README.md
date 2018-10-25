@@ -1,11 +1,13 @@
 # Create_Network
 Create Network  eg.BASF, HCSF, Lattice, SW, RRG
 # Dpendency
-Language used : C++,  Compiler : Intel/2018, Operating environment :  Super computer of Kyushu University in Japan
+Language used : C++<br>
+Compiler : Intel/2018<br>
+Operating environment :  Super computer of Kyushu University in Japan
 # Usage
 `$ module load intel/2018`<br>
-`$ icpc network_creator_SuperComputer.cpp -o network_creator_SuperComputer`<br>
-`$ ./network_creator_SuperComputer`<br>
+`$ icpc SuperComputer_version.cpp -o SuperComputer_version`<br>
+`$ ./SuperComputer_version`<br>
 # Licence
 This software is released under the MIT License, see LICENSE.
 # Authors
