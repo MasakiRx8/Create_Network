@@ -1,6 +1,12 @@
 # Create_Network
 Create Network<br>
-ex.BASF, HCSF, Lattice, SW, RRG
+ex.BASF, HCSF, Lattice, SW, RRG<br>
+|Example game situation|Time evolution|
+|:--:|:--:|
+|<img src="https://user-images.githubusercontent.com/39644776/41784084-9bb5b1b4-7679-11e8-87be-2401128dd9a6.png" width="400px" title="Image of the game on lattice">|<img src="https://user-images.githubusercontent.com/39644776/43253959-367a4eb6-9101-11e8-83f6-dd7b0f323118.gif" width="450px">|
+|C: Cooperator, D: Defector| Blue: Cooperator, Red: Defector| 
+<br>
+
 # Dpendency
 Language used : C++<br>
 Compiler : Intel/2018<br>
