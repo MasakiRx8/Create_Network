@@ -14,13 +14,13 @@ Operating environment :  Super computer of Kyushu University in Japan
 # Usage
 First, you should create directory of outpted result ".dat" files.<br>
 `$ mkdir Network`<br>
-`cd Network`<br>
-`mkdir BASF`<br>
-`mkdir HCSF`<br>
-`mkdir Lattice`<br>
-`mkdir SW`<br>
-`mkdir RRG`<br>
-`mkdir network_evaluation`<br>
+`$ cd Network`<br>
+`$ mkdir BASF`<br>
+`$ mkdir HCSF`<br>
+`$ mkdir Lattice`<br>
+`$ mkdir SW`<br>
+`$ mkdir RRG`<br>
+`$ mkdir network_evaluation`<br>
 Next, module loading, Compileing, Calculation<br>
 `$ module load intel/2018`<br>
 `$ icpc SuperComputer_Version.cpp -o SuperComputer_Version`<br>
