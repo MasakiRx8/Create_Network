@@ -21,7 +21,7 @@ First, you should create directory of outpted result ".dat" files.<br>
 `mkdir SW`<br>
 `mkdir RRG`<br>
 `mkdir network_evaluation`<br>
-Next, module loading, Compileing, Calculation 
+Next, module loading, Compileing, Calculation<br>
 `$ module load intel/2018`<br>
 `$ icpc SuperComputer_Version.cpp -o SuperComputer_Version`<br>
 `$ ./SuperComputer_Version`<br>
