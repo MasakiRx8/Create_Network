@@ -11,7 +11,4 @@ This software is released under the MIT License, see LICENSE.
 # Authors
 MasakiRx8
 # References
-Book name : 複雑ネットワーク　基礎から応用まで\n
-Authors : 増田直紀, 今野紀雄\n
-Issuer : 小山透\n
-Issuing office : 近代科学社
+Book name : 複雑ネットワーク　基礎から応用まで  Authors : 増田直紀, 今野紀雄  Issuer : 小山透  Issuing office : 近代科学社
