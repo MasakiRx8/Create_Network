@@ -5,7 +5,7 @@ Language used : C++<br>
 Compiler : Intel/2018<br>
 Operating environment :  Super computer of Kyushu University in Japan
 # Usage
-First, you should create directory of outpted result ".dat" files.
+First, you should create directory of outpted result ".dat" files.<br>
 `$ mkdir Network`<br>
 `cd Network`<br>
 `mkdir BASF`<br>
