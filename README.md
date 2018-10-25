@@ -1,5 +1,6 @@
 # Create_Network
-Create Network  eg.BASF, HCSF, Lattice, SW, RRG
+Create Network<br>
+ex.BASF, HCSF, Lattice, SW, RRG
 # Dpendency
 Language used : C++<br>
 Compiler : Intel/2018<br>
