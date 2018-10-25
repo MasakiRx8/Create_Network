@@ -5,6 +5,16 @@ Language used : C++<br>
 Compiler : Intel/2018<br>
 Operating environment :  Super computer of Kyushu University in Japan
 # Usage
+First, you should create directory of outpted result ".dat" files.
+`$ mkdir Network`<br>
+`cd Network`<br>
+`mkdir BASF`<br>
+`mkdir HCSF`<br>
+`mkdir Lattice`<br>
+`mkdir SW`<br>
+`mkdir RRG`<br>
+`mkdir network_evaluation`<br>
+Next, module loading, Compileing, Calculation 
 `$ module load intel/2018`<br>
 `$ icpc SuperComputer_Version.cpp -o SuperComputer_Version`<br>
 `$ ./SuperComputer_Version`<br>
