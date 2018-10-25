@@ -1,8 +1,7 @@
 # Create_Network
 Create Network<br>
 ex.BASF, HCSF, Lattice, SW, RRG<br>
-|<img src="https://user-images.githubusercontent.com/44464443/47505163-8d358380-d8a8-11e8-95a4-876de10bbc43.png" width="400px" title="Image of the BA-SF, avrage degree is 4">|<img src="https://user-images.githubusercontent.com/39644776/43253959-367a4eb6-9101-11e8-83f6-dd7b0f323118.gif" width="450px">|
-|C: Cooperator, D: Defector| Blue: Cooperator, Red: Defector| 
+|<img src="https://user-images.githubusercontent.com/44464443/47505163-8d358380-d8a8-11e8-95a4-876de10bbc43.png" width="400px" title="Image of the BA-SF, avrage degree is 4">|<img src="https://user-images.githubusercontent.com/44464443/47505306-e43b5880-d8a8-11e8-913d-39afa4eea84a.png" width="450px">|
 <br>
 
 # Dpendency
